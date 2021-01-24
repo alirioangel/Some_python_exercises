@@ -13,3 +13,5 @@ por el momento tenemos los siguientes:
 > algoritmo para hacer una lista con pointers y sus distintos metodos (insertar,buscar,remover,editar)
 ### Depth first search
 > implementacion del depth first search para ordenar en un arreglo todos los valores de un arbol del mas izquierdo al mas derecho
+### Nth fibonacci
+> 2 funciones avanzadas para calcular fibonacci.
